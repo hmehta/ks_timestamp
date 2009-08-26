@@ -1,0 +1,8 @@
+irssi plugin for kilosecond timestamps
+Author: Heikki Mehtänen <heikki at mehtanen dot fi>
+This software is released under the GNU General Public License (GPL, http://www.gnu.org/copyleft/gpl.html) and comes with absolutely no warranty
+
+usage:
+1. copy over to your .irssi/scripts
+2. in irssi /load ks_timestamp
+3. enjoy the metric glory
