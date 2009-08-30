@@ -4,5 +4,6 @@ This software is released under the GNU General Public License (GPL, http://www.
 
 usage:
 1. copy over to your .irssi/scripts
-2. in irssi /load ks_timestamp
+2. in irssi /load ks_timestamp.pl
 3. enjoy the metric glory
+4. make other's jealous and announce your metric glory with /ks
